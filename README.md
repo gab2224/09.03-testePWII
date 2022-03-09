@@ -1,2 +1,18 @@
 # 09.03-testePWII
-Teste para usar o github, GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. É como uma plataforma social colaborativa, onde programadores e empresas colocam seus projetos para o desenvolvimento do código, Por que precisamos do GitHub? Entenda que o mundo da tecnologia de informação está cada vez mais concorrido, novas tecnologias vêm surgindo aos montes e em uma velocidade impressionante.  Pessoas, para desenvolverem aplicativos e programas capazes de lidar e controlar essas tecnologias, estão sendo cada vez mais procuradas.  Com toda esta concorrência e diversidade, como fazer para se destacar neste meio?  Em algumas profissões, é comum os profissionais terem um portfólio para divulgação de seu trabalho.  Ilustradores podem expor seus desenhos no DeviantArt, músicos e cantores divulgam suas canções no SoundCloud ou YouTube.  Mas e os programadores? Onde eles poderiam exibir seu programas e códigos? É aí onde entra o GitHub!  Porém, não tem como entendermos sobre GitHub sem falarmos de Git, por isso, para entender de onde surgiu o Git, de GitHub, vamos falar brevemente sobre o assunto.  O que é Git O Git é um repositório de controle de versão de arquivos, utilizado para controlar versões de códigos-fonte e desenvolvimento colaborativo.  Foi criado em 2005 pelo Linus Torvalds, criador do kernel do Linux, para hospedar o código-fonte do Linux e permitir a colaboração em seu desenvolvimento, já que a antiga empresa que hospedava seu código, a BitKeeper, queria passar a cobrar pelos seu serviços.  Para você entender melhor sobre a importância do Git, na segunda edição da GeekStream, Felipe Fialho confidenciou que dominar os comandos do Git é uma das coisas mais importantes na carreira de desenvolvedor.
+**Introdução ao Git Hub**
+
+1. Criar uma conta
+2. Criar um repositório
+3. Conectar o Git no VSCODE
+4. Enviar o projeto VSCODE P/ Git 
+
+**O que é? 
+O GitHub é uma empresa com fins lucrativos que disponibiliza um serviço de hospedagem de repositório Git baseado em nuvem. De forma sucinta, faz com que pessoas singulares e equipes usem de forma muito mais simples o Git para o controle de versão e colaboração.
+
+A interface do GitHub é bastante intuitiva, até mesmo codificadores novatos podem aproveitar o Git. Sem o GitHub, usar o Git normalmente exige um pouco mais de conhecimento técnico e uso da linha de comando.
+
+O GitHub é tão fácil de usar que algumas pessoas utilizam o GitHub para gerenciar outros tipos de projetos – por exemplo, para escreverem livros.
+
+Além disso, qualquer pessoa pode se registrar e hospedar gratuitamente um repositório de código público, o que faz com que o GitHub seja particularmente utilizado em projetos open-source.
+
+Enquanto empresa, o GitHub ganha dinheiro com a venda de repositórios hospedados de código privado, além de outros planos empresariais, que permitem às organizações gerenciar mais facilmente os membros da equipe e a segurança. Nós utilizamos bastante o Github na Kinsta para gerenciar e desenvolver projetos internos.
