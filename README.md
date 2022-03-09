@@ -6,7 +6,7 @@
 3. Conectar o Git no VSCODE
 4. Enviar o projeto VSCODE P/ Git 
 
-**O que é? 
+**O que é? ** 
 O GitHub é uma empresa com fins lucrativos que disponibiliza um serviço de hospedagem de repositório Git baseado em nuvem. De forma sucinta, faz com que pessoas singulares e equipes usem de forma muito mais simples o Git para o controle de versão e colaboração.
 
 A interface do GitHub é bastante intuitiva, até mesmo codificadores novatos podem aproveitar o Git. Sem o GitHub, usar o Git normalmente exige um pouco mais de conhecimento técnico e uso da linha de comando.
